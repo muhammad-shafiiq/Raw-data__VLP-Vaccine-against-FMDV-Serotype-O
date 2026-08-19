@@ -1,4 +1,4 @@
-md_pentameric-vlp-model --> contains raw data of MD simulations of the pentameric VLP mpdel.
+md_pentameric-vlp-model --> contains raw data of MD simulations of the pentameric VLP model.
 
 md-complex_rep1         --> contains raw data of first replicate of MD simulations of the VLP-BoLA complex.
 
